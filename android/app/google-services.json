@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743086498366",
+    "project_id": "fcmcompose",
+    "storage_bucket": "fcmcompose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743086498366:android:848777be3e03a0433d676f",
+        "android_client_info": {
+          "package_name": "com.example.fcm_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPV8bgyg4GCt1OfXYXxRv3PdN82NgnV-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743086498366:android:d5b0c7a8d2d43d073d676f",
+        "android_client_info": {
+          "package_name": "com.example.swipetodelete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPV8bgyg4GCt1OfXYXxRv3PdN82NgnV-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
