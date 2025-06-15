@@ -49,3 +49,13 @@ dependencies {
 flutter {
     source = "../.."
 }
+
+subprojects {
+    afterEvaluate { project ->
+        project.android {
+            if(namespace == null) {
+                namespace project.group
+            }
+        }
+     }
+}
